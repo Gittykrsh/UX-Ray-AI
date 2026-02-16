@@ -1,67 +1,146 @@
 # 🚀 UX-Ray AI — Website UX Reviewer
 
-UX-Ray AI is an AI-powered SaaS web application that performs instant UX audits for websites and provides actionable design and conversion suggestions.
+UX-Ray AI is a web project that helps users analyze the user experience (UX) of a website using Artificial Intelligence.
 
-This project is built using **HTML, CSS, JavaScript and OpenAI API** and is designed as a complete frontend SaaS product.
+Users will be able to enter a website URL and receive feedback, UX scores, and improvement suggestions.
 
----
-
-## 🌟 Project Vision
-
-Most developers and startups don’t have access to UX experts because UX audits are expensive and time-consuming.
-
-UX-Ray AI solves this by acting as a **virtual UX consultant** that gives instant feedback on:
-
-- Usability
-- Conversion
-- Trust signals
-- Mobile friendliness
-- Design improvements
+This project is being built step-by-step as a complete frontend + AI integrated application.
 
 ---
 
-## 🎯 Target Users
+## 🎯 Project Goal
 
-This tool is designed for:
+The main goal of this project is to build a practical AI-powered tool that helps developers and website owners improve their website design and usability.
 
-- 👨‍💻 Beginner Web Developers
-- 💼 Freelancers
-- 🚀 Startup Founders
-- 🎓 Students building portfolios
-- 🛍️ Small business owners
+Many people create websites but are unsure about:
+- Whether their design looks professional
+- Why users don’t click buttons
+- Why conversions are low
+- How to improve usability
+
+This project aims to solve that problem.
 
 ---
 
-## 💡 Why This Project Is Unique
+## 👥 Who Can Use This Project?
 
-Existing tools like Google Lighthouse give **technical data**, but not **human-style UX suggestions**.
+This tool will be useful for:
 
-UX-Ray AI provides:
-- UX Score
-- Conversion suggestions
-- Design improvements
-- Audience-based analysis
-- Instant AI-generated report
-
-👉 It combines **AI + UX + Product Thinking**
+- Beginner Web Developers  
+- Students building portfolios  
+- Freelancers creating client websites  
+- Startup founders  
+- Small business owners  
 
 ---
 
 ## 🧱 Tech Stack
 
 Frontend:
-- HTML5
-- CSS3 (Flexbox + Grid + Glassmorphism)
-- Vanilla JavaScript
-
-AI:
-- OpenAI API (planned)
+- HTML  
+- CSS  
+- JavaScript  
 
 Design:
-- Poppins Font
-- Gradient & Glass UI
+- Google Fonts (Poppins)  
+- Flexbox & Grid Layout  
+- Modern UI Styling  
+
+AI (Planned):
+- OpenAI API  
 
 ---
 
-## 📂 Project Structure
+## 📂 Current Project Structure
 
+```
+ux-ray-ai/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+## 🌐 Features Completed So Far
+
+We have completed the **Landing Page** of the project.
+
+Landing page includes:
+
+- Navigation bar  
+- Hero section with background image  
+- Features section  
+- How it Works section  
+- Pricing section (Free / Monthly / Yearly)  
+- Call-to-Action section  
+- Footer  
+
+The landing page is designed with modern UI principles and clean layout.
+
+---
+
+## 🎨 What We Practiced In This Phase
+
+While building the landing page we practiced:
+
+- Semantic HTML structure  
+- Layout alignment using containers  
+- Flexbox & Grid usage  
+- Typography and font usage  
+- Gradient backgrounds  
+- Card-based UI design  
+- Button and CTA styling  
+- Visual hierarchy and spacing  
+
+---
+
+## 🔮 Future Scope
+
+Next steps of the project include:
+
+### 🔐 Authentication Pages
+- Login page  
+- Signup page  
+- Simulated authentication using LocalStorage  
+
+### 📊 Dashboard
+- Website URL input form  
+- Target audience selection  
+- Website goal selection  
+
+### 🤖 AI Integration
+- Connect OpenAI API  
+- Generate UX feedback and suggestions  
+- Generate UX scores:
+  - UX Score  
+  - Conversion Score  
+  - Trust Score  
+  - Mobile Score  
+
+### 📈 Results Page
+- Show UX issues found  
+- Show AI suggestions  
+- Allow users to download reports  
+
+### 🗂️ Report History
+- Save previous reports  
+- View past analyses  
+
+---
+
+## 🎓 Learning Purpose
+
+This project is being built to practice:
+
+- Frontend development  
+- UI/UX design thinking  
+- AI integration in web apps  
+- Building real-world portfolio projects  
+
+---
+
+## 👨‍💻 Author
+
+This project is being developed as a learning and portfolio project.
